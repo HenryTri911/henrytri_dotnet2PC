@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HENRY\\.nuget\\packages\\": {}
+    "C:\\Users\\WIN 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\henryTri_dotnet2\\henrytri_dotnet2PC\\session2\\session2.csproj",
+      "projectUniqueName": "D:\\KINHDOANHPHUTUNG-d\\C# dotnet\\session2\\session2.csproj",
       "projectName": "session2",
-      "projectPath": "D:\\henryTri_dotnet2\\henrytri_dotnet2PC\\session2\\session2.csproj",
-      "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
-      "outputPath": "D:\\henryTri_dotnet2\\henrytri_dotnet2PC\\session2\\obj\\",
+      "projectPath": "D:\\KINHDOANHPHUTUNG-d\\C# dotnet\\session2\\session2.csproj",
+      "packagesPath": "C:\\Users\\WIN 10\\.nuget\\packages\\",
+      "outputPath": "D:\\KINHDOANHPHUTUNG-d\\C# dotnet\\session2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\WIN 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

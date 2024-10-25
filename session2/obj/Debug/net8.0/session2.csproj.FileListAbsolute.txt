@@ -12,3 +12,18 @@ D:\henryTri_dotnet2\henrytri_dotnet2PC\session2\obj\Debug\net8.0\refint\session2
 D:\henryTri_dotnet2\henrytri_dotnet2PC\session2\obj\Debug\net8.0\session2.pdb
 D:\henryTri_dotnet2\henrytri_dotnet2PC\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
 D:\henryTri_dotnet2\henrytri_dotnet2PC\session2\obj\Debug\net8.0\ref\session2.dll
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\bin\Debug\net8.0\session2.exe
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\bin\Debug\net8.0\session2.deps.json
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\bin\Debug\net8.0\session2.runtimeconfig.json
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\bin\Debug\net8.0\session2.dll
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\bin\Debug\net8.0\session2.pdb
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.AssemblyInfoInputs.cache
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.AssemblyInfo.cs
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.csproj.CoreCompileInputs.cache
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.sourcelink.json
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.dll
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\refint\session2.dll
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.pdb
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
+D:\KINHDOANHPHUTUNG-d\C# dotnet\session2\obj\Debug\net8.0\ref\session2.dll
