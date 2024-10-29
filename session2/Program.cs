@@ -56,16 +56,16 @@
 
 // #endregion
 
-#region Tính diện tích và chu vi hình tròn
-Console.WriteLine($"mời bạn nhập bán kính hình tròn");
-string? banKinh = Console.ReadLine();
-double formatBankinh = Convert.ToDouble(banKinh);
-double chuVi = 0.0;
-double dienTich = 0.0;
-double PI = Math.PI; //dùng hằng số PI có sẵn trong thư viện Math trong C#
-chuVi = 2 * PI * formatBankinh;
-dienTich = PI * formatBankinh * formatBankinh;
-Console.WriteLine($"chu vi hình tròn là: {chuVi}");
-Console.WriteLine($"diện tích hình tròn là: {dienTich}");
-
-#endregion
+// #region Tính diện tích và chu vi hình tròn
+// Console.WriteLine($"mời bạn nhập bán kính hình tròn");
+// string? banKinh = Console.ReadLine();
+// double formatBankinh = Convert.ToDouble(banKinh);
+// double chuVi = 0.0;
+// double dienTich = 0.0;
+// double PI = Math.PI; //dùng hằng số PI có sẵn trong thư viện Math trong C#
+// chuVi = 2 * PI * formatBankinh;
+// dienTich = PI * formatBankinh * formatBankinh;
+// Console.WriteLine($"chu vi hình tròn là: {chuVi}");
+// Console.WriteLine($"diện tích hình tròn là: {dienTich}");
+//
+// #endregion
