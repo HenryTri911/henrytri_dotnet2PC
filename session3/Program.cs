@@ -55,42 +55,78 @@
 //     
 //         } else {Console.WriteLine($"Số bạn nhập không đúng");}
 // #endregion
+#region Switch case
 // Switch case
 //c1: dùng switch case
 // nhập số trong khoảng từ 1 - 10. đọc ra số đó
-Console.WriteLine($"Mời bạn nhập số từ 1 đến 10:");
-string? number1 = Console.ReadLine();
-int fnumber1 = Convert.ToInt32(number1);
-switch (fnumber1)
+// Console.WriteLine($"Mời bạn nhập số từ 1 đến 10:");
+// string? number1 = Console.ReadLine();
+// int fnumber1 = Convert.ToInt32(number1);
+// switch (fnumber1)
+// {
+//     case 1:
+//         Console.WriteLine($"số một");
+//         break;
+//     case 2:
+//         Console.WriteLine($"số hai");
+//         break;
+//     case 3:
+//         Console.WriteLine($"số ba");
+//         break;
+//     case 4:
+//         Console.WriteLine($"số bốn");
+//         break;
+//     case 5:
+//         Console.WriteLine($"số năm");
+//         break;
+//     case 6:
+//         Console.WriteLine($"số sáu");
+//         break;
+//     case 7:
+//         Console.WriteLine($"số bảy");
+//         break;
+//     case 8:
+//         Console.WriteLine($"số tám");
+//         break;
+//     case 9:
+//         Console.WriteLine($"số chín");
+//         break;
+//     default:
+//         Console.WriteLine($"số mười");
+//         break;
+// }
+#endregion
+#region Bài tập switch case 
+// làm chương trình quản lý điểm 
+// A 90- 100 ; B 80 - 89; C 70 -79; D 60 - 69; F < 60
+int diem;
+
+while (true)
 {
-    case 1:
-        Console.WriteLine($"số 3");
+    Console.Write("Nhập điểm (từ 1 đến 100): ");
+    if(int.TryParse(Console.ReadLine(),out diem) && diem >= 1 && diem <= 100)
+    {
         break;
-    case 2:
-        Console.WriteLine($"số hai");
-        break;
-    case 3:
-        Console.WriteLine($"số ba");
-        break;
-    case 4:
-        Console.WriteLine($"số bốn");
-        break;
-    case 5:
-        Console.WriteLine($"số năm");
-        break;
-    case 6:
-        Console.WriteLine($"số sáu");
-        break;
-    case 7:
-        Console.WriteLine($"số bảy");
-        break;
-    case 8:
-        Console.WriteLine($"số tám");
-        break;
-    case 9:
-        Console.WriteLine($"số chín");
-        break;
-    default:
-        Console.WriteLine($"số mười");
-        break;
+    }
+    else
+    {
+        Console.WriteLine("Điểm không hợp lệ. Vui lòng nhập lại.");
+    }
 }
+
+string xepLoai = diem switch
+{
+    >= 90 and <= 100 => "A",
+    >= 80 and < 90 => "B",
+    >= 70 and < 80 => "C",
+    >= 60 and < 70 => "D",
+    < 60 => "F",
+    _ => "Điểm không hợp lệ"
+};
+
+Console.WriteLine($"Xếp loại: {xepLoai}");
+
+
+
+
+#endregion

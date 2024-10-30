@@ -1,0 +1,5 @@
+D:\henryTri_dotnet2\henrytri_dotnet2PC\BàiTập\obj\Debug\net8.0\BàiTập.GeneratedMSBuildEditorConfig.editorconfig
+D:\henryTri_dotnet2\henrytri_dotnet2PC\BàiTập\obj\Debug\net8.0\BàiTập.AssemblyInfoInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\BàiTập\obj\Debug\net8.0\BàiTập.AssemblyInfo.cs
+D:\henryTri_dotnet2\henrytri_dotnet2PC\BàiTập\obj\Debug\net8.0\BàiTập.csproj.CoreCompileInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\BàiTập\obj\Debug\net8.0\BàiTập.sourcelink.json

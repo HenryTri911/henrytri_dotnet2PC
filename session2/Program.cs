@@ -67,5 +67,58 @@
 // dienTich = PI * formatBankinh * formatBankinh;
 // Console.WriteLine($"chu vi hình tròn là: {chuVi}");
 // Console.WriteLine($"diện tích hình tròn là: {dienTich}");
+
 //
 // #endregion
+
+
+// #endregion
+
+// #region Bài tập 1: tính số ngày dư và số tuần
+// Console.WriteLine($" Mời bạn nhập số ngày: ");
+// string soNgay = Console.ReadLine ();
+// int formatSoNgay = Convert.ToInt32 (soNgay);
+// Console.WriteLine($"{formatSoNgay/7} tuần và {formatSoNgay%7} ngày");
+
+// #endregion
+
+// #region bài tập 2: tính tổng giá trị đơn hàng sau khi áp giảm giá
+// Console.WriteLine($"Mời bạn nhập số tiền:");
+// string? soTien = Console.ReadLine ();
+// Console.WriteLine($"Mời bạn nhập % giảm giá: ");
+// string? soGiam = Console.ReadLine ();
+// double formatSoTien = Convert.ToDouble (soTien);
+// double formatSoGiam = Convert.ToDouble (soGiam);
+// Console.WriteLine($"Số tiền bạn được giảm là: {formatSoGiam/100*formatSoTien}");
+// Console.WriteLine($"tổng số tiền bạn phải thanh toán là: {formatSoTien - (formatSoGiam/100*formatSoTien)}");
+
+// #endregion
+
+// #region Bài tập 3: chuyển thời gian từ phút sang giờ và phút
+// Console.WriteLine($"Mời bạn nhập số phút");
+// string? soPhut = Console.ReadLine ();
+// int formatsoPhut = Convert.ToInt32 (soPhut);
+// Console.WriteLine($"{formatsoPhut/60}giờ {formatsoPhut%60}phút");
+
+// #endregion
+
+// #region Bài tập 4: Tính số tiền sau khi cộng thuế VAT
+// Console.WriteLine(" Mời bạn nhập số tiền:");
+// string? giaTien = Console.ReadLine();
+// double formatGiatien = Convert.ToDouble(giaTien);
+// Console.WriteLine(" Mời bạn nhập % thuế VAT");
+// string? thueVAT = Console.ReadLine();
+// double formatThueVAT = Convert.ToDouble (thueVAT);
+// Console.WriteLine ($"Số tiền thuế là: {formatThueVAT*formatGiatien/100}");
+// Console.WriteLine ($"Số tiền sau thuế là:{(formatThueVAT*formatGiatien/100)+formatGiatien}");
+
+// #endregion
+
+#region bài tập 5: chuyển đổi đơn vị tiền tệ
+Console.WriteLine($"Mời bạn nhập số tiền (USD) :");
+string? tienUSD = Console.ReadLine ();
+double formatTienUSD = Convert.ToDouble(tienUSD);
+Console.WriteLine($"số tiền của bạn khi đổi ra tiền Việt Nam là: {formatTienUSD*25401} VND");
+
+#endregion
+
