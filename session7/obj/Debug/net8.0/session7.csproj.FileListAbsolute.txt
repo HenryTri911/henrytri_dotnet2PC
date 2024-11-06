@@ -1,0 +1,15 @@
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\bin\Debug\net8.0\session7.exe
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\bin\Debug\net8.0\session7.deps.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\bin\Debug\net8.0\session7.runtimeconfig.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\bin\Debug\net8.0\session7.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\bin\Debug\net8.0\session7.pdb
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.GeneratedMSBuildEditorConfig.editorconfig
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.AssemblyInfoInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.AssemblyInfo.cs
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.csproj.CoreCompileInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.sourcelink.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\refint\session7.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.pdb
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\session7.genruntimeconfig.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session7\obj\Debug\net8.0\ref\session7.dll
