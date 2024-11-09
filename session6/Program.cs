@@ -47,7 +47,7 @@
         for (int i =0; i < formatNumber; i++){
             //C1: dùng insert
             Console.WriteLine($"Nhập phần tử thứ {i+1}");
-            string item = Console.ReadLine();
+            string? item = Console.ReadLine();
             int formatItem = Convert.ToInt32 (item);
             // listNumbers.Insert(i, formatItem);
             //C2: dùng Add ( thêm phần tử vào cuối danh sách )
