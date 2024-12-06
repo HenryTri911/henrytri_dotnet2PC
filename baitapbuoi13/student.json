@@ -1,0 +1,62 @@
+[
+  {
+    "studentId": "NVA",
+    "studentName": "A",
+    "diemToan": 8.0,
+    "diemVan": 5.0,
+    "diemAnh": 9.0,
+    "diemTB": 7.333333333333333,
+    "XepLoai": "Khá",
+    "FirstName": "A"
+  },
+  {
+    "studentId": "NVB",
+    "studentName": "B",
+    "diemToan": 8.75,
+    "diemVan": 4.5,
+    "diemAnh": 9.5,
+    "diemTB": 7.583333333333333,
+    "XepLoai": "Khá",
+    "FirstName": "B"
+  },
+  {
+    "studentId": "NVC",
+    "studentName": "C",
+    "diemToan": 5.0,
+    "diemVan": 6.0,
+    "diemAnh": 7.0,
+    "diemTB": 6.0,
+    "XepLoai": "Trung Bình",
+    "FirstName": "C"
+  },
+  {
+    "studentId": "NVD",
+    "studentName": "D",
+    "diemToan": 3.0,
+    "diemVan": 4.5,
+    "diemAnh": 3.75,
+    "diemTB": 3.75,
+    "XepLoai": "Yếu",
+    "FirstName": "D"
+  },
+  {
+    "studentId": "NVE",
+    "studentName": "E",
+    "diemToan": 9.5,
+    "diemVan": 8.5,
+    "diemAnh": 10.0,
+    "diemTB": 9.333333333333334,
+    "XepLoai": "Giỏi",
+    "FirstName": "E"
+  },
+  {
+    "studentId": "NVE",
+    "studentName": "Nguyen Van E",
+    "diemToan": 7.5,
+    "diemVan": 6.0,
+    "diemAnh": 5.5,
+    "diemTB": 6.333333333333333,
+    "XepLoai": "Trung Bình",
+    "FirstName": "E"
+  }
+]
