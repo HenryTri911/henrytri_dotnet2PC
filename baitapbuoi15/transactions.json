@@ -1,0 +1,14 @@
+[
+  {
+    "PaymentMenthod": "Tiền mặt",
+    "Amount": 230000.0
+  },
+  {
+    "PaymentMenthod": "Thẻ",
+    "Amount": 981000.0
+  },
+  {
+    "PaymentMenthod": "Online",
+    "Amount": 109000.0
+  }
+]
