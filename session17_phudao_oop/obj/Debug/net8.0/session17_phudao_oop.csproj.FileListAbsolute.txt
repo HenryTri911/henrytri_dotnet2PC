@@ -1,0 +1,15 @@
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\bin\Debug\net8.0\session17_phudao_oop.exe
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\bin\Debug\net8.0\session17_phudao_oop.deps.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\bin\Debug\net8.0\session17_phudao_oop.runtimeconfig.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\bin\Debug\net8.0\session17_phudao_oop.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\bin\Debug\net8.0\session17_phudao_oop.pdb
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.AssemblyInfoInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.AssemblyInfo.cs
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.csproj.CoreCompileInputs.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.sourcelink.json
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\refint\session17_phudao_oop.dll
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.pdb
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\session17_phudao_oop.genruntimeconfig.cache
+D:\henryTri_dotnet2\henrytri_dotnet2PC\session17_phudao_oop\obj\Debug\net8.0\ref\session17_phudao_oop.dll
